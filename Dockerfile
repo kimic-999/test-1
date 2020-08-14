@@ -1,2 +1,2 @@
 FROM nginx
-RUN echo '<h1>hello, docker! version 4</h1>' > /usr/share/nginx/html/index.html
+RUN echo '<h1>hello, docker! version 66</h1>' > /usr/share/nginx/html/index.html
